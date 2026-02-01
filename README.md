@@ -11,22 +11,22 @@ Below is a **clean Markdown version**, reordered clearly by **priority (new sort
 
 ### 🧹 Cleaning & Hygiene
 
-* [ ] **Scotch-Brite No-Dust Broom** – ₹249
+* [x] **Scotch-Brite No-Dust Broom** – ₹249
 * [ ] **Elinor Big Size Dustpan** – ₹149
-* [ ] **Cello Kleeno Floor Wiper** – ₹299
-* [ ] **Spotzero Flat Mop (5 Litre)** – ₹999
-* [ ] **SOFTSPUN Microfiber Cleaning Cloths** – ₹222
+* [x] **Cello Kleeno Floor Wiper** – ₹299
+* [x] **Spotzero Flat Mop (5 Litre)** – ₹999
+* [x] **SOFTSPUN Microfiber Cleaning Cloths** – ₹222
 * [ ] **KE Washbasin Cleaning Brush** – ₹60
-* [ ] **EWEIMA Silicone Toilet Brush** – ₹277
+* [X] **EWEIMA Silicone Toilet Brush** – ₹277
 
 ### 🚮 Waste Management
 
-* [ ] **Nayasa 2-in-1 Pedal Dustbin (33L – Wet & Dry)** – ₹1,016
+* [x] **Nayasa 2-in-1 Pedal Dustbin (33L – Wet & Dry)** – ₹1,016
 
 ### 🍽 Kitchen Basics
 
-* [ ] **TEKCOOL Stainless Steel Dish Drainer** – ₹549
-* [ ] **Scotch-Brite Sponge Wipe (Pack of 5)** – ₹292
+* [x] **TEKCOOL Stainless Steel Dish Drainer** – ₹549
+* [x] **Scotch-Brite Sponge Wipe (Pack of 5)** – ₹292
 * [ ] **IONIX Tap Extender (Kitchen/Bathroom)** – ₹198
 
 ---
@@ -37,8 +37,8 @@ Below is a **clean Markdown version**, reordered clearly by **priority (new sort
 
 ### 🚿 Bathroom & Tap Cleaning
 
-* [ ] **JOFF Tap & Shower Cleaner (500 ml)** – ₹225
-* [ ] **Kmils Bathroom Cleaning Brush** – ₹234
+* [x] **JOFF Tap & Shower Cleaner (500 ml)** – ₹225
+* [x] **Kmils Bathroom Cleaning Brush** – ₹234
 
 ### 🪟 Curtains (Privacy & Heat Control)
 
@@ -48,7 +48,7 @@ Below is a **clean Markdown version**, reordered clearly by **priority (new sort
 ### 🧼 Sink Protection & Drain
 
 * [ ] **Stainless Steel Sink Strainer** – ₹389
-* [ ] **iDream Silicone Sink Mat** – ₹348
+* [x] **iDream Silicone Sink Mat** – ₹348
 
 ---
 
@@ -58,15 +58,15 @@ Below is a **clean Markdown version**, reordered clearly by **priority (new sort
 
 ### 🦶 Mats
 
-* [ ] **TAGPR Bathroom Mat (Any One)** – ₹198
+* [x] **TAGPR Bathroom Mat (Any One)** – ₹198
 * [ ] **TICOLO Entrance Doormat** – ₹249
-* [ ] **TEKCOOL Anti-Fatigue Kitchen Mat** – ₹495
+* [x] **TEKCOOL Anti-Fatigue Kitchen Mat** – ₹495
 
 ### 🍳 Kitchen Convenience
 
-* [ ] **Wooden Chopping Board** – ₹999
+* [x] **Wooden Chopping Board** – ₹999
 * [ ] **Silicone Atta / Roti Rolling Mat** – ₹249
-* [ ] **Vegetable Julienne Peeler** – ₹279
+* [x] **Vegetable Julienne Peeler** – ₹279
 
 ---
 
